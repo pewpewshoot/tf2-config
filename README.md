@@ -1,1 +1,1 @@
--windowed -console -noborder -novid -useforcedmparms -noforcemaccel -noforcemspd -mat_queue_mode 2 -freq 180 -d3d9ex -high -no_texture_stream -novid -nojoy -nosteamcontroller -nohltv -particles 1 -threads 20  -nouserclip -exec autoexec
++mat_queue_mode 2  -freq 180 -nojoy -noff -nohltv -nosteamcontroller -d3d9ex1 -novid -console -no_texture_stream -particles 1
