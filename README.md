@@ -6,3 +6,7 @@
 - [Enhanced Water](https://gamebanana.com/mods/587413)
 - [No Status Overlays ](https://gamebanana.com/mods/617692)
 - [Recompilation of LODs](https://gamebanana.com/mods/482999)
+- [Lugermorph fix](https://gamebanana.com/mods/475780)
+
+# HUD
+- [Solarlight HUD](https://github.com/SolarLightTF2/solarlighthud-redux)
